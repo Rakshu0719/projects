@@ -15,7 +15,7 @@
     /* background-color:hsl(214, 91%, 17%); */
     border-radius: 5px;
     cursor: pointer;
-    /* transition: background-color 0.25s; */
+    transition: background-color 0.25s;
 }
 /* .buttons:hover{ */
     /* background-color: hsl(259, 53%, 51%); */
